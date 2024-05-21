@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Llarriz! A passionate Data Science student from Brazil.
 
   - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
@@ -25,7 +25,7 @@
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![LinkedIn](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstrumiellomocelin%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwZXh0bgNhZW0CMTAAAR3UDz6EVjRINn8ohpSEH9ZRwkF5XRd9RN0zbIoy7MAv-Sn-xkfKFJg1EJs_aem_ARqac9rr6WcebuRUN7Uz1P_YXMeOoZ58Jb5odhnhfERS7aSiE3OeE2AbegH0CxAtUBtlHBNpZA29_khTCugOKxjm&h=AT0SpL7l0v8LvWjhbuPce7900nyh-GkUgRWhSgwe-2_9Mw58cTYrYxbpnvuLDW4sMg3UhagFafbvyWXoeFOvOC4OnJbddjJVeP_ExRi0Es03oyCS9yahs2E0CEBk&__tn__=-UK-R&c[0]=AT1ZbcyquRnMSGR2Ah6xxF1bK3PYJ3Z3HWuZDFXLxHv37_me2QarUOk9zlUcLkwfU5eh5xfYxZi4XOipGtLs-074_yrhxXtTFs1XNwK7tMJ0gdzaEz3oEjUmyLrHPhbfjTl-NhfHtqxMFvZPX8-0Bi1-pj_GHW7nOnsTG4C98tf0u1FE43Bm5k2wzsr0)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
 <!-- GithubStats -->
